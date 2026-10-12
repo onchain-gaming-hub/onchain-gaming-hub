@@ -1,0 +1,15 @@
+[submodule "platform-core"]
+	path = platform-core
+	url = https://github.com/onchain-gaming-hub/platform-core.git
+[submodule "lobby"]
+	path = lobby
+	url = https://github.com/onchain-gaming-hub/lobby.git
+[submodule "rewards-pool"]
+	path = rewards-pool
+	url = https://github.com/onchain-gaming-hub/rewards-pool.git
+[submodule "ad-pool"]
+	path = ad-pool
+	url = https://github.com/onchain-gaming-hub/ad-pool.git
+[submodule "relayer"]
+	path = relayer
+	url = https://github.com/onchain-gaming-hub/relayer.git
