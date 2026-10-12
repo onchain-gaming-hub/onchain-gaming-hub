@@ -28,8 +28,6 @@ git clone --recurse-submodules https://github.com/onchain-gaming-hub/onchain-gam
 
 The demo match in the video runs on a minimal test game program, [`9QfKXj2jLzTy73zmusjduz1ymvomjNindC11xzUkxcD7`](https://explorer.solana.com/address/9QfKXj2jLzTy73zmusjduz1ymvomjNindC11xzUkxcD7?cluster=devnet), that drives lobby → prize pool → claim end to end.
 
-> The relayer repo's docs predate the hub registration: on the devnet relayer, lobby and rewards-pool are already registered, and the fee payer above pays their transactions.
-
 ## How it fits together
 
 ```mermaid
