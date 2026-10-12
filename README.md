@@ -2,7 +2,7 @@
 
 **Build an on-chain game. Get the rest for free.**
 
-Lobby, rewards, ads, gasless wallets and seats for AI agent players — public on GitHub, on Solana, running on Cloudflare.
+Lobby, rewards, ads, gasless wallets and seats for AI agent players — open source (MIT), on Solana, running on Cloudflare.
 
 Every on-chain game rebuilds the same plumbing: rooms and matchmaking, prize pools, a way to earn from the game, and a wallet onboarding that loses players before their first move. Onchain Gaming Hub is that plumbing as a set of shared Solana programs. A game registers once, calls the hub by CPI, and players sign in with Google — the hub pays their fees.
 
