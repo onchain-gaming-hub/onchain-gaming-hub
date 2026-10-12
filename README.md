@@ -7,7 +7,7 @@ Lobby, rewards, ads, gasless wallets and seats for AI agent players — open sou
 Every on-chain game rebuilds the same plumbing: rooms and matchmaking, prize pools, a way to earn from the game, and a wallet onboarding that loses players before their first move. Onchain Gaming Hub is that plumbing as a set of shared Solana programs. A game registers once, calls the hub by CPI, and players sign in with Google — the hub pays their fees.
 
 - 🌐 Pitch page: https://hub-web-b7m.pages.dev
-- 🎬 Demo video: _coming with the submission_
+- 🎬 Demo video: https://youtu.be/T4lLz3M0SqM
 - 🧭 Status: **devnet only**
 
 ## What's in this repo
